@@ -11,11 +11,11 @@ Menu
 ------------
 ![image](https://github.com/ambientelivre/custom_report/assets/97977665/9f20d9c0-81d2-4a9e-a6c0-f8ed919b3840)
 
-Relatório Suporte
+Support Report
 -----------------
 ![image](https://github.com/ambientelivre/custom_report/assets/97977665/00d1e702-9e6a-43d6-a00d-2ca732b789d8)
 
-Relatório Técnico
+Technician Report
 -----------------
 ![image](https://github.com/Migueldv06/miguel_custom_report/assets/97977665/dd64dc7c-5e07-4370-88eb-546c3186a9fa)
 
